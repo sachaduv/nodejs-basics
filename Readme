@@ -1,0 +1,11 @@
+npm i -g express-generator 
+express project_name //to generate express project
+npm unistall jade --save //to replace template engine
+npm install express-handlebars --save //template engine
+npm install express-validator --save //npm install --save express-validator@5.3.0 //https://express-validator.github.io/docs/
+npm install express-session --save
+npm install body-parser --save
+npm install nodemon --save-dev
+npm install mongodb --save
+npm install monk --save
+npm install mongoose --save
